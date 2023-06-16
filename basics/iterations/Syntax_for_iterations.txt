@@ -1,0 +1,29 @@
+// iterative statements
+/*
+---------------------------------------------------------
+ do
+{
+	statement1;
+	statement2;
+	statement3;
+}
+	while(condition);
+---------------------------------------------------------
+ // while loop 
+	while(condition)
+		{
+			statement1;
+			statement2;
+			statement3;
+			updation part;
+		}
+---------------------------------------------------------
+// for loop
+     for(exp1/initialisation;exp2/condition;exp3/updation)
+	{
+			statement1;
+			statement2;
+			statement3;
+		}
+-----------------------------------------------------------
+*/
