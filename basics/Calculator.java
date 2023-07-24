@@ -5,13 +5,13 @@ class Calculator
 		  int a=10;
 		  int b=20;
 		 
-	switch(args[0])
-	{	
-	   case '+':
-			{
-				System.out.println(a+b);
-				break;
-				}
-	}	
+	// // switch(args[0])
+	// {	
+	//    case '+':
+	// 		{
+	// 			System.out.println(a+b);
+	// 			break;
+	// 			}
+	// }	
 			}
 	}

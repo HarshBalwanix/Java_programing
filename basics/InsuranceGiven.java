@@ -1,5 +1,5 @@
 // provide insurance if the employ is married
- if unmarried and employ is male and age is less than 35 provide and for female if age is less than 30 provide
+//  if unmarried and employ is male and age is less than 35 provide and for female if age is less than 30 provide
 
 class InsuranceGiven {
     public static void main(String args[]) {
